@@ -24,3 +24,4 @@ go.work
 .env
 rssagg
 thunder-tests/
+ps_queries.pgsql
